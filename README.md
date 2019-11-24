@@ -10,5 +10,9 @@
 
 - [音乐软件](https://github.com/007ayong/Android_Crack/tree/master/music)
 - [MX Player Pro](https://github.com/007ayong/Android_Crack/tree/master/MX_Player_Pro)
+- [MT管理器](https://github.com/007ayong/Android_Crack/tree/master/MT%E7%AE%A1%E7%90%86%E5%99%A8)
+- [SD Maid-Pro](https://github.com/007ayong/Android_Crack/tree/master/SD%20Maid-Pro)
+- [抖音](https://github.com/007ayong/Android_Crack/tree/master/%E6%8A%96%E9%9F%B3)
+- [影视](https://github.com/007ayong/Android_Crack/影视)
 - 
 
