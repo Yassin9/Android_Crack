@@ -15,7 +15,7 @@
 - [MT管理器](https://github.com/007ayong/Android_Crack/tree/master/MT%E7%AE%A1%E7%90%86%E5%99%A8)
 - [SD Maid-Pro](https://github.com/007ayong/Android_Crack/tree/master/SD%20Maid-Pro)
 - [抖音](https://github.com/007ayong/Android_Crack/tree/master/%E6%8A%96%E9%9F%B3)
-- [影视]( [https://github.com/007ayong/Android_Crack/tree/master/%E5%BD%B1%E8%A7%86](https://github.com/007ayong/Android_Crack/tree/master/影视) )
+- [影视](https://github.com/007ayong/Android_Crack/tree/master/%E5%BD%B1%E8%A7%86)
 
   
 
