@@ -10,7 +10,7 @@
 
 ------
 
-- [音乐软件](https://github.com/007ayong/Android_Crack/tree/master/music)
+- [音乐软件](./music)
 - [MX Player Pro](https://github.com/007ayong/Android_Crack/tree/master/MX_Player_Pro)
 - [MT管理器](https://github.com/007ayong/Android_Crack/tree/master/MT%E7%AE%A1%E7%90%86%E5%99%A8)
 - [SD Maid-Pro](https://github.com/007ayong/Android_Crack/tree/master/SD%20Maid-Pro)
